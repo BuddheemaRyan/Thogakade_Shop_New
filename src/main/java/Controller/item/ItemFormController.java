@@ -1,4 +1,4 @@
-package Controller.Item;
+package Controller.item;
 
 public class ItemFormController {
 }
